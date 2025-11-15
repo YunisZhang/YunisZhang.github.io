@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Personal Web: https://Liu-Tianchi.github.io
+Personal Web: https://yuniszhang.github.io/
 
 <!--
 **jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
