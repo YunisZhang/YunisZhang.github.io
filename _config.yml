@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuning Zhang"
-description              : "Graduate student @ ECNU, Shanghai;<br>Ex-HUAWEI, Nanjing & Shenzhen"
+description              : "Graduate student @ ECNU, Shanghai;<br>Ex-HUAWEI, (Nanjing & Shenzhen)"
 repository               : "YunisZhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liu Tianchi"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yuning Zhang"
+  avatar           : "images/profile.png"
   bio              : 
-  location         : "Singapore"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=1W24GsQAAAAJ&hl=en"
-  email            : "tianchi_liu@u.nus.edu"
+  googlescholar    : # "https://scholar.google.com.sg/citations?user=1W24GsQAAAAJ&hl=en"
+  email            : "yuningzhang.cs@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Liu-Tianchi"
+  github           : "YunisZhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tianchi-liu"
+  linkedin         : # "tianchi-liu"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
