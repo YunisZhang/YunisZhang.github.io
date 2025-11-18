@@ -30,7 +30,7 @@ Outside of research, I enjoy strength training, playing guitar, appreciating whi
 
 <!--a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a -->
 
-<br>
+<br><br>
 
 # News
 * 2025/09 — Joined Multi-agent Artificial Intelligence Laboratory
@@ -69,7 +69,9 @@ Coming soon
 <!-- - *2025.11 - Now*, LLM Research Intern, *, Shanghai. -->
 - *2022.08 - 2025.08*, Cloud Systems and Chip R&D Engineer, Huawei, Nanjing & Shenzhen.
 
-<br><br><br>
+<br><br>
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=f4f2db&w=400&t=m&d=2voQODxJ_u0wjuhhYrEsJi8LKmrCE9VPs82pGIza9H8&co=99daf2&ct=515151&cmo=a6c450&cmn=a6c450'></script>
-
+---
+<div id="clustrmaps-container" style="width: 400px; height: 300px; overflow: hidden;">
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=f4f2db&w=400&t=m&d=2voQODxJ_u0wjuhhYrEsJi8LKmrCE9VPs82pGIza9H8&co=99daf2&ct=515151&cmo=a6c450&cmn=a6c450'></script>
+</div>
