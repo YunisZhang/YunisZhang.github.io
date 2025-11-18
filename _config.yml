@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuning Zhang (Yunis)"
-description              : "Graduate student @ ECNU, Shanghai<br>Ex-Huawei (Nanjing & Shenzhen)"
+title                    : "Yuning(Yunis) Zhang"
+description              : "Graduate student @ ECNU<br> Agent & AI Infrastructure<br> Ex-Huawei, Nanjing / SZ"
 repository               : "YunisZhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuning Zhang"
-  avatar           : "images/profile.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com.sg/citations?user=1W24GsQAAAAJ&hl=en"
+  googlescholar    : # ""
   email            : "yuningzhang.cs@gmail.com"
   researchgate     : 
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "tianchi-liu"
+  linkedin         : # ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

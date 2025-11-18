@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research"
-    url: "/#-research-area"
+  - title: "News"
+    url: "/#news"
 
-  - title: "Education"
-    url: "/#-education"
-
-  - title: "Work"
-    url: "/#-work-experience"
+  - title: "Projects"
+    url: "/#selected-projects"
 
   - title: "Publication"
-    url: "/#-publication"
-    
-  - title: "Code"
-    url: "/#-open-source-contributions"
+    url: "/#selected-publication"
 
-  - title: "Others"
-    url: "/#-others"
+  # - title: "Education"
+  #   url: "/#education"
+    
+  - title: "Experience"
+    url: "/#experience"
+
+  # - title: "Others"
+  #   url: "/#-others" 
